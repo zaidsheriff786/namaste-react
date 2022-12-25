@@ -1,14 +1,20 @@
 ● What is Emmet?
+
 “Emmet is a plug in for many popular text editors which greatly improves HTML & CSS workflow:”
 you can use short expressions to generate HTML markup, CSS.
 
 ● Difference between a Library and Framework?
+
+Framework provides ready to use tools, standards, templates, and policies or fast application development. Library provides reusable function for our code.
+
+When you use a library, you are in charge of the flow of the application. You are choosing when and where to call the library. When you use a framework, the framework is in charge of the flow. It provides some places for you to plug in your code, but it calls the code you plugged in as needed.
 
 ● What is CDN? Why do we use it?
 
 A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content. It is a network of servers that distributes content from an “origin” server throughout the world by caching content close to where each end user is accessing the internet via a web-enabled device. The content they request is first stored on the origin server and is then replicated and stored elsewhere as needed. A CDN allows for the quick transfer of assets needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos.
 
 ● Why is React known as React?
+
 Many systems advertise some kind of reactivity, but they usually require that you set up some kind of point-to-point listeners and won’t work on structured data. This API reacts to any state or property changes, and works with data of any form. Physical matter consist of atoms the types of these atoms and their properties determines how it behaves so similarly the UI can be split into independent units called components and describes how the UI behaves hence react is known as react.
 
 ● What is crossorigin in script tag?
