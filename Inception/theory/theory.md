@@ -5,6 +5,7 @@ you can use short expressions to generate HTML markup, CSS.
 ● Difference between a Library and Framework?
 
 ● What is CDN? Why do we use it?
+
 A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content. It is a network of servers that distributes content from an “origin” server throughout the world by caching content close to where each end user is accessing the internet via a web-enabled device. The content they request is first stored on the origin server and is then replicated and stored elsewhere as needed. A CDN allows for the quick transfer of assets needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos.
 
 ● Why is React known as React?
@@ -20,6 +21,7 @@ CORS stands for Cross-Origin Resource Sharing, and is a mechanism that allows re
 React: React is a javascript library, designed for building better user interfaces. it is the core library.
 React-DOM: React-DOM is a complimentary library to React which glues React to the browser DOM.
 ReactDOM is the webversion of the react.
+
 ● What is difference between react.development.js and react.production.js files via CDN?
 
 react.development.js are only meant for development, and are not suitable for production.
@@ -28,6 +30,7 @@ You have Source Maps, debugging and often times hot reloading ability in those b
 react.production.js are minified and optimized production versions of React.
 
 ● What is async and defer?
+
 async scripts load in the background and run when ready.
 async downloads the file during HTML parsing and will pause the HTML parser only when the file is dowloaded.
 
