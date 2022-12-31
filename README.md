@@ -1,1 +1,1 @@
-# namaste-react-course
+# Namaste-React-Course
