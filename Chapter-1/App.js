@@ -1,29 +1,29 @@
 const heading = React.createElement(
-  "h1",
+  'h1',
   {
-    id: "title",
+    id: 'title',
   },
-  "Heading 1"
+  'Heading 1'
 );
 
 const heading2 = React.createElement(
-  "h2",
+  'h3',
   {
-    id: "title",
+    id: 'title',
   },
-  "Heading 2"
+  'Heading 2'
 );
 
 const container = React.createElement(
-  "div",
+  'div',
   {
-    id: "container",
+    id: 'container',
   },
   [heading, heading2]
 );
 
 console.log(heading);
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(container);
