@@ -23,7 +23,6 @@ const container = React.createElement(
 );
 
 console.log(heading);
-console.log(heading2);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
